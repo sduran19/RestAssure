@@ -1,0 +1,20 @@
+User.java
+ User
+ApplicationProperties.java
+ ApplicationProperties
+CreateUserRequest.java
+ CreateUserRequest
+CreateUserResponse.java
+ CreateUserResponse
+ConfVariables.java
+ ConfVariables
+GetUsers.java
+ GetUsers
+prueba_customer/PruebaCustomer.java
+ prueba_customer.PruebaCustomer
+prueba_customer/Customer.java
+ prueba_customer.Customer
+prueba_customer/Identification.java
+ prueba_customer.Identification
+ReqResTests.java
+ ReqResTests
